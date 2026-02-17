@@ -1,4 +1,4 @@
- name: CI and DockerHub publish
+name: CI and DockerHub publish
 
 on:
   push:
