@@ -54,4 +54,3 @@ jobs:
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/parcel-tracker:${{ github.ref_name }}
             ${{ secrets.DOCKERHUB_USERNAME }}/parcel-tracker:latest
-
